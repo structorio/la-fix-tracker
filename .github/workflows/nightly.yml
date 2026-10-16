@@ -1,0 +1,19 @@
+name: Nightly data refresh
+on:
+  schedule: [{cron: "17 10 * * *"}]  # ~3:17am PT
+  workflow_dispatch:
+permissions: {contents: write}
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: python3 scripts/build.py
+      - run: |
+          git config user.name "structorio"
+          git config user.email "221877006+structorio@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || (git commit -m "Nightly data refresh $(date -u +%F)" && git push)

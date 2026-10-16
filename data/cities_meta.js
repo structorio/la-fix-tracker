@@ -1,0 +1,622 @@
+window.CITIES_META={
+ "population_source": "U.S. Census Bureau, Vintage 2025 city population estimates (sub-est2025.csv, POPESTIMATE2025)",
+ "checked": "2026-10-16",
+ "portal_notes": {
+  "Los Angeles": "Open: MyLA311 on data.lacity.org (API + CSV, created & closed dates, updated daily)",
+  "Pasadena": "Stale: the 'Pasadena_311' ArcGIS layer has no closed date and stopped updating in 2020. The current service-request layer requires a login.",
+  "Santa Monica": "Retired: data.smgov.net, which hosted closed 'Santa Monica Works' requests, is unreachable as of Oct 2026.",
+  "Glendale": "Not public: the GlendaleOne ArcGIS layer isn't publicly queryable."
+ },
+ "cities": [
+  {
+   "name": "Agoura Hills",
+   "county": "Los Angeles",
+   "population": 19243
+  },
+  {
+   "name": "Alhambra",
+   "county": "Los Angeles",
+   "population": 79820
+  },
+  {
+   "name": "Arcadia",
+   "county": "Los Angeles",
+   "population": 54117
+  },
+  {
+   "name": "Artesia",
+   "county": "Los Angeles",
+   "population": 15789
+  },
+  {
+   "name": "Avalon",
+   "county": "Los Angeles",
+   "population": 3237
+  },
+  {
+   "name": "Azusa",
+   "county": "Los Angeles",
+   "population": 47447
+  },
+  {
+   "name": "Baldwin Park",
+   "county": "Los Angeles",
+   "population": 68880
+  },
+  {
+   "name": "Bell",
+   "county": "Los Angeles",
+   "population": 31625
+  },
+  {
+   "name": "Bell Gardens",
+   "county": "Los Angeles",
+   "population": 37367
+  },
+  {
+   "name": "Bellflower",
+   "county": "Los Angeles",
+   "population": 74719
+  },
+  {
+   "name": "Beverly Hills",
+   "county": "Los Angeles",
+   "population": 30764
+  },
+  {
+   "name": "Bradbury",
+   "county": "Los Angeles",
+   "population": 888
+  },
+  {
+   "name": "Burbank",
+   "county": "Los Angeles",
+   "population": 102988
+  },
+  {
+   "name": "Calabasas",
+   "county": "Los Angeles",
+   "population": 22027
+  },
+  {
+   "name": "Carson",
+   "county": "Los Angeles",
+   "population": 90808
+  },
+  {
+   "name": "Cerritos",
+   "county": "Los Angeles",
+   "population": 46367
+  },
+  {
+   "name": "Claremont",
+   "county": "Los Angeles",
+   "population": 35838
+  },
+  {
+   "name": "Commerce",
+   "county": "Los Angeles",
+   "population": 11688
+  },
+  {
+   "name": "Compton",
+   "county": "Los Angeles",
+   "population": 90500
+  },
+  {
+   "name": "Covina",
+   "county": "Los Angeles",
+   "population": 49404
+  },
+  {
+   "name": "Cudahy",
+   "county": "Los Angeles",
+   "population": 21445
+  },
+  {
+   "name": "Culver City",
+   "county": "Los Angeles",
+   "population": 39452
+  },
+  {
+   "name": "Diamond Bar",
+   "county": "Los Angeles",
+   "population": 51884
+  },
+  {
+   "name": "Downey",
+   "county": "Los Angeles",
+   "population": 108468
+  },
+  {
+   "name": "Duarte",
+   "county": "Los Angeles",
+   "population": 22866
+  },
+  {
+   "name": "El Monte",
+   "county": "Los Angeles",
+   "population": 105075
+  },
+  {
+   "name": "El Segundo",
+   "county": "Los Angeles",
+   "population": 16379
+  },
+  {
+   "name": "Gardena",
+   "county": "Los Angeles",
+   "population": 58460
+  },
+  {
+   "name": "Glendale",
+   "county": "Los Angeles",
+   "population": 187160
+  },
+  {
+   "name": "Glendora",
+   "county": "Los Angeles",
+   "population": 49671
+  },
+  {
+   "name": "Hawaiian Gardens",
+   "county": "Los Angeles",
+   "population": 13373
+  },
+  {
+   "name": "Hawthorne",
+   "county": "Los Angeles",
+   "population": 82741
+  },
+  {
+   "name": "Hermosa Beach",
+   "county": "Los Angeles",
+   "population": 18513
+  },
+  {
+   "name": "Hidden Hills",
+   "county": "Los Angeles",
+   "population": 1675
+  },
+  {
+   "name": "Huntington Park",
+   "county": "Los Angeles",
+   "population": 51544
+  },
+  {
+   "name": "Industry",
+   "county": "Los Angeles",
+   "population": 199
+  },
+  {
+   "name": "Inglewood",
+   "county": "Los Angeles",
+   "population": 101662
+  },
+  {
+   "name": "Irwindale",
+   "county": "Los Angeles",
+   "population": 1439
+  },
+  {
+   "name": "La Cañada Flintridge",
+   "county": "Los Angeles",
+   "population": 19480
+  },
+  {
+   "name": "La Habra Heights",
+   "county": "Los Angeles",
+   "population": 5327
+  },
+  {
+   "name": "La Mirada",
+   "county": "Los Angeles",
+   "population": 45952
+  },
+  {
+   "name": "La Puente",
+   "county": "Los Angeles",
+   "population": 36423
+  },
+  {
+   "name": "La Verne",
+   "county": "Los Angeles",
+   "population": 30178
+  },
+  {
+   "name": "Lakewood",
+   "county": "Los Angeles",
+   "population": 78010
+  },
+  {
+   "name": "Lancaster",
+   "county": "Los Angeles",
+   "population": 170084
+  },
+  {
+   "name": "Lawndale",
+   "county": "Los Angeles",
+   "population": 29892
+  },
+  {
+   "name": "Lomita",
+   "county": "Los Angeles",
+   "population": 19724
+  },
+  {
+   "name": "Long Beach",
+   "county": "Los Angeles",
+   "population": 450469
+  },
+  {
+   "name": "Los Angeles",
+   "county": "Los Angeles",
+   "population": 3869089
+  },
+  {
+   "name": "Lynwood",
+   "county": "Los Angeles",
+   "population": 63512
+  },
+  {
+   "name": "Malibu",
+   "county": "Los Angeles",
+   "population": 9574
+  },
+  {
+   "name": "Manhattan Beach",
+   "county": "Los Angeles",
+   "population": 33122
+  },
+  {
+   "name": "Maywood",
+   "county": "Los Angeles",
+   "population": 23600
+  },
+  {
+   "name": "Monrovia",
+   "county": "Los Angeles",
+   "population": 38264
+  },
+  {
+   "name": "Montebello",
+   "county": "Los Angeles",
+   "population": 60693
+  },
+  {
+   "name": "Monterey Park",
+   "county": "Los Angeles",
+   "population": 57457
+  },
+  {
+   "name": "Norwalk",
+   "county": "Los Angeles",
+   "population": 97104
+  },
+  {
+   "name": "Palmdale",
+   "county": "Los Angeles",
+   "population": 161845
+  },
+  {
+   "name": "Palos Verdes Estates",
+   "county": "Los Angeles",
+   "population": 12559
+  },
+  {
+   "name": "Paramount",
+   "county": "Los Angeles",
+   "population": 50755
+  },
+  {
+   "name": "Pasadena",
+   "county": "Los Angeles",
+   "population": 135804
+  },
+  {
+   "name": "Pico Rivera",
+   "county": "Los Angeles",
+   "population": 58915
+  },
+  {
+   "name": "Pomona",
+   "county": "Los Angeles",
+   "population": 147807
+  },
+  {
+   "name": "Rancho Palos Verdes",
+   "county": "Los Angeles",
+   "population": 39654
+  },
+  {
+   "name": "Redondo Beach",
+   "county": "Los Angeles",
+   "population": 67281
+  },
+  {
+   "name": "Rolling Hills",
+   "county": "Los Angeles",
+   "population": 1641
+  },
+  {
+   "name": "Rolling Hills Estates",
+   "county": "Los Angeles",
+   "population": 7948
+  },
+  {
+   "name": "Rosemead",
+   "county": "Los Angeles",
+   "population": 49410
+  },
+  {
+   "name": "San Dimas",
+   "county": "Los Angeles",
+   "population": 32978
+  },
+  {
+   "name": "San Fernando",
+   "county": "Los Angeles",
+   "population": 23449
+  },
+  {
+   "name": "San Gabriel",
+   "county": "Los Angeles",
+   "population": 38186
+  },
+  {
+   "name": "San Marino",
+   "county": "Los Angeles",
+   "population": 11964
+  },
+  {
+   "name": "Santa Clarita",
+   "county": "Los Angeles",
+   "population": 228430
+  },
+  {
+   "name": "Santa Fe Springs",
+   "county": "Los Angeles",
+   "population": 18793
+  },
+  {
+   "name": "Santa Monica",
+   "county": "Los Angeles",
+   "population": 90082
+  },
+  {
+   "name": "Sierra Madre",
+   "county": "Los Angeles",
+   "population": 10620
+  },
+  {
+   "name": "Signal Hill",
+   "county": "Los Angeles",
+   "population": 11153
+  },
+  {
+   "name": "South El Monte",
+   "county": "Los Angeles",
+   "population": 18963
+  },
+  {
+   "name": "South Gate",
+   "county": "Los Angeles",
+   "population": 90071
+  },
+  {
+   "name": "South Pasadena",
+   "county": "Los Angeles",
+   "population": 25503
+  },
+  {
+   "name": "Temple City",
+   "county": "Los Angeles",
+   "population": 35125
+  },
+  {
+   "name": "Torrance",
+   "county": "Los Angeles",
+   "population": 138391
+  },
+  {
+   "name": "Vernon",
+   "county": "Los Angeles",
+   "population": 207
+  },
+  {
+   "name": "Walnut",
+   "county": "Los Angeles",
+   "population": 27316
+  },
+  {
+   "name": "West Covina",
+   "county": "Los Angeles",
+   "population": 105301
+  },
+  {
+   "name": "West Hollywood",
+   "county": "Los Angeles",
+   "population": 34231
+  },
+  {
+   "name": "Westlake Village",
+   "county": "Los Angeles",
+   "population": 7505
+  },
+  {
+   "name": "Whittier",
+   "county": "Los Angeles",
+   "population": 85815
+  },
+  {
+   "name": "Aliso Viejo",
+   "county": "Orange",
+   "population": 49844
+  },
+  {
+   "name": "Anaheim",
+   "county": "Orange",
+   "population": 341008
+  },
+  {
+   "name": "Brea",
+   "county": "Orange",
+   "population": 47260
+  },
+  {
+   "name": "Buena Park",
+   "county": "Orange",
+   "population": 81741
+  },
+  {
+   "name": "Costa Mesa",
+   "county": "Orange",
+   "population": 108881
+  },
+  {
+   "name": "Cypress",
+   "county": "Orange",
+   "population": 48781
+  },
+  {
+   "name": "Dana Point",
+   "county": "Orange",
+   "population": 32232
+  },
+  {
+   "name": "Fountain Valley",
+   "county": "Orange",
+   "population": 55508
+  },
+  {
+   "name": "Fullerton",
+   "county": "Orange",
+   "population": 138675
+  },
+  {
+   "name": "Garden Grove",
+   "county": "Orange",
+   "population": 170455
+  },
+  {
+   "name": "Huntington Beach",
+   "county": "Orange",
+   "population": 191451
+  },
+  {
+   "name": "Irvine",
+   "county": "Orange",
+   "population": 318764
+  },
+  {
+   "name": "La Habra",
+   "county": "Orange",
+   "population": 60908
+  },
+  {
+   "name": "La Palma",
+   "county": "Orange",
+   "population": 14907
+  },
+  {
+   "name": "Laguna Beach",
+   "county": "Orange",
+   "population": 22391
+  },
+  {
+   "name": "Laguna Hills",
+   "county": "Orange",
+   "population": 30020
+  },
+  {
+   "name": "Laguna Niguel",
+   "county": "Orange",
+   "population": 64107
+  },
+  {
+   "name": "Laguna Woods",
+   "county": "Orange",
+   "population": 16844
+  },
+  {
+   "name": "Lake Forest",
+   "county": "Orange",
+   "population": 86333
+  },
+  {
+   "name": "Los Alamitos",
+   "county": "Orange",
+   "population": 11702
+  },
+  {
+   "name": "Mission Viejo",
+   "county": "Orange",
+   "population": 90484
+  },
+  {
+   "name": "Newport Beach",
+   "county": "Orange",
+   "population": 81977
+  },
+  {
+   "name": "Orange",
+   "county": "Orange",
+   "population": 138365
+  },
+  {
+   "name": "Placentia",
+   "county": "Orange",
+   "population": 54911
+  },
+  {
+   "name": "Rancho Santa Margarita",
+   "county": "Orange",
+   "population": 45779
+  },
+  {
+   "name": "San Clemente",
+   "county": "Orange",
+   "population": 62226
+  },
+  {
+   "name": "San Juan Capistrano",
+   "county": "Orange",
+   "population": 35119
+  },
+  {
+   "name": "Santa Ana",
+   "county": "Orange",
+   "population": 315586
+  },
+  {
+   "name": "Seal Beach",
+   "county": "Orange",
+   "population": 24075
+  },
+  {
+   "name": "Stanton",
+   "county": "Orange",
+   "population": 40161
+  },
+  {
+   "name": "Tustin",
+   "county": "Orange",
+   "population": 77843
+  },
+  {
+   "name": "Villa Park",
+   "county": "Orange",
+   "population": 5645
+  },
+  {
+   "name": "Westminster",
+   "county": "Orange",
+   "population": 88966
+  },
+  {
+   "name": "Yorba Linda",
+   "county": "Orange",
+   "population": 65632
+  }
+ ]
+};
