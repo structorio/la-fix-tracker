@@ -20,7 +20,7 @@ if($("nodata")){const have=new Set(LB.cities.map(c=>c.name)),N=META.portal_notes
  $("nd-count").textContent=`${list.length} of ${META.cities.length} cities in LA and Orange counties (checked ${META.checked}). LA County's unincorporated areas (The Works app) and OC Public Works don't publish open request data either.`;
  $("nodata").innerHTML=`<table><thead><tr><th>City</th><th>County</th><th>Population</th><th>What we found</th></tr></thead><tbody>${list.map(c=>`<tr><td>${c.name}</td><td>${c.county}</td><td>${c.population?c.population.toLocaleString():"–"}</td><td class=muted>${N[c.name]||(have.has(c.name)?"Only a handful of SeeClickFix resident reports; no official open feed":"No public open feed found")}</td></tr>`).join("")}</tbody></table>`;sortable($("nodata").querySelector("table"))}
 // Config: set these when the backends exist.
-const SIGNUP_ENDPOINT=""; // e.g. Resend audience endpoint; receives POST JSON {email}
+const SIGNUP_ENDPOINT="https://signup.kordaris.com"; // e.g. Resend audience endpoint; receives POST JSON {email}
 const TALLY_FORM_URL=""; // e.g. https://tally.so/r/xxxx
 const CONTACT="hello@kordaris.com";
 if(TALLY_FORM_URL){const l=document.getElementById("suggest-link");l.href=TALLY_FORM_URL;l.target="_blank";l.rel="noopener"}
