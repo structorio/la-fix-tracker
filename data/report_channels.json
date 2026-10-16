@@ -1,0 +1,2352 @@
+{
+ "checked": "2026-10-16",
+ "note": "Channels gathered from each city's official homepage links (automated crawl) plus targeted web research. \"verified\" = URL returned HTTP 200 from our checker on last_checked. Cities whose sites blocked or timed out our checker are \"not found yet\".",
+ "places": [
+  {
+   "name": "Agoura Hills",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://www.agourahillscity.org/",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Alhambra",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.cityofalhambra.org",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Arcadia",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://www.visitarcadiacalifornia.com/",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [
+    "https://www.visitarcadiacalifornia.com/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Artesia",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.cityofartesia.us",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Avalon",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://www.cityofavalon.com",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Azusa",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.ci.azusa.ca.us",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Baldwin Park",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.baldwinpark.com",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Bell",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.cityofbell.org",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Bell Gardens",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.bellgardens.org",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Bellflower",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.bellflower.org/",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Beverly Hills",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://www.beverlyhills.org/",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": "310-285-1000",
+   "email": null,
+   "sources": [
+    "https://www.beverlyhills.org/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "not found yet",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Bradbury",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://www.bradburyca.gov/",
+   "app": null,
+   "vendor": null,
+   "channels": [
+    {
+     "label": "Report an Issue",
+     "url": "https://www.bradburyca.gov/citizen_request_form/index.php",
+     "verified": true,
+     "http": "200"
+    }
+   ],
+   "phone": "(626) 358-3218",
+   "email": null,
+   "sources": [
+    "https://www.bradburyca.gov/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Burbank",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://www.burbankca.gov/",
+   "app": null,
+   "vendor": "Burbank 311",
+   "channels": [
+    {
+     "label": "Report a Problem",
+     "url": "https://www.burbankca.gov/report-a-problem",
+     "verified": true,
+     "http": "200"
+    },
+    {
+     "label": "ACCESS THE 311 APP",
+     "url": "https://311.burbankca.gov",
+     "verified": true,
+     "http": "200"
+    }
+   ],
+   "phone": null,
+   "email": null,
+   "sources": [
+    "https://www.burbankca.gov/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found"
+  },
+  {
+   "name": "Calabasas",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://www.cityofcalabasas.com/",
+   "app": null,
+   "vendor": null,
+   "channels": [
+    {
+     "label": "Report A Problem",
+     "url": "https://www.cityofcalabasas.com/services/report-a-problem",
+     "verified": false,
+     "http": "403"
+    }
+   ],
+   "phone": "(818) 224-1600",
+   "email": null,
+   "sources": [
+    "https://www.cityofcalabasas.com/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Carson",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://carsonca.gov/index",
+   "app": null,
+   "vendor": "Tyler Technologies",
+   "channels": [
+    {
+     "label": "Carson 311",
+     "url": "https://cityofcarsonca.tylerportico.com/TIM/Portal/portal-home",
+     "verified": true,
+     "http": "200"
+    }
+   ],
+   "phone": "(310) 830-7600",
+   "email": null,
+   "sources": [
+    "https://carsonca.gov/index"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Cerritos",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.ci.cerritos.ca.us",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Claremont",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.ci.claremont.ca.us",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Commerce",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.ci.commerce.ca.us",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Compton",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.comptoncity.org/",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Covina",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.ci.covina.ca.us",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Cudahy",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.cityofcudahy.com",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Culver City",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://www.culvercity.gov/Home",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [
+    "https://www.culvercity.gov/Home"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Diamond Bar",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.ci.diamond-bar.ca.us",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Downey",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.downeyca.org/",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Duarte",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.accessduarte.com",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "El Monte",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.ci.el-monte.ca.us",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "El Segundo",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://www.elsegundo.gov/",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": "310-524-2300",
+   "email": null,
+   "sources": [
+    "https://www.elsegundo.gov/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "not found yet",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Gardena",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://cityofgardena.org/",
+   "app": null,
+   "vendor": "PublicStuff (Accela)",
+   "channels": [
+    {
+     "label": "Gardena Direct",
+     "url": "http://iframe.publicstuff.com/#?client_id=1000006",
+     "verified": false,
+     "http": "000"
+    },
+    {
+     "label": "Vector Control & Service Requests",
+     "url": "https://cityofgardena.org/glacvcd/",
+     "verified": true,
+     "http": "200"
+    }
+   ],
+   "phone": "(310) 217-9565",
+   "email": null,
+   "sources": [
+    "https://cityofgardena.org/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Glendale",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://www.glendaleca.gov/",
+   "app": null,
+   "vendor": null,
+   "channels": [
+    {
+     "label": "Report Issues Report an issue or submit a service request",
+     "url": "https://www.glendaleca.gov/residents/how-do-i/contact-the-city/report-a-problem-online",
+     "verified": false,
+     "http": "403"
+    }
+   ],
+   "phone": null,
+   "email": null,
+   "sources": [
+    "https://www.glendaleca.gov/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found"
+  },
+  {
+   "name": "Glendora",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.ci.glendora.ca.us",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Hawaiian Gardens",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://hgcity.org",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Hawthorne",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://www.cityofhawthorne.org/",
+   "app": null,
+   "vendor": null,
+   "channels": [
+    {
+     "label": "Tree Service Request",
+     "url": "https://www.cityofhawthorne.org/departments/community-services/tree-service-request",
+     "verified": false,
+     "http": "403"
+    }
+   ],
+   "phone": "(310) 349-2900",
+   "email": null,
+   "sources": [
+    "https://www.cityofhawthorne.org/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Hermosa Beach",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://www.hermosabeach.gov/",
+   "app": null,
+   "vendor": null,
+   "channels": [
+    {
+     "label": "Service Request - Go Hermosa!",
+     "url": "https://www.hermosabeach.gov/our-government/quick-links/service-request-go-hermosa",
+     "verified": false,
+     "http": "403"
+    },
+    {
+     "label": "Service Request - Go Hermosa!",
+     "url": "https://www.hermosabeach.gov/services/service-request-go-hermosa",
+     "verified": false,
+     "http": "403"
+    },
+    {
+     "label": "Report an Issue / Make a Request",
+     "url": "https://www.hermosabeach.gov/i-want-to/report",
+     "verified": false,
+     "http": "403"
+    },
+    {
+     "label": "Service Request - Go Hermosa!",
+     "url": "https://www.hermosabeach.gov/i-want-to/report-an-issue-make-a-request/service-request-go-hermosa",
+     "verified": false,
+     "http": "403"
+    }
+   ],
+   "phone": "(310) 318-0239",
+   "email": null,
+   "sources": [
+    "https://www.hermosabeach.gov/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Hidden Hills",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://hiddenhills.gov/",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": "(818) 888-9281",
+   "email": null,
+   "sources": [
+    "https://hiddenhills.gov/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "not found yet",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Huntington Park",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.huntingtonpark.org",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Industry",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://www.cityofindustry.org/",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": "626-333-2211",
+   "email": null,
+   "sources": [
+    "https://www.cityofindustry.org/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "not found yet",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Inglewood",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://www.cityofinglewood.org/",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": "310-412-5111",
+   "email": null,
+   "sources": [
+    "https://www.cityofinglewood.org/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "not found yet",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Irwindale",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.ci.irwindale.ca.us",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "La Cañada Flintridge",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.lcf.ca.gov",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "La Habra Heights",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.la-habra-heights.org",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "La Mirada",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.cityoflamirada.org",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "La Puente",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.lapuente.org",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "La Verne",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://cityoflaverne.org",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Lakewood",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.lakewoodcity.org",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Lancaster",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://www.cityoflancasterca.org/",
+   "app": null,
+   "vendor": null,
+   "channels": [
+    {
+     "label": "Report a Problem",
+     "url": "https://www.cityoflancasterca.org/services/report-a-problem",
+     "verified": false,
+     "http": "403"
+    }
+   ],
+   "phone": "661-723-6000",
+   "email": null,
+   "sources": [
+    "https://www.cityoflancasterca.org/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Lawndale",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://www.lawndale.ca.gov/",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": "310-973-3200",
+   "email": null,
+   "sources": [
+    "https://www.lawndale.ca.gov/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "not found yet",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Lomita",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://lomitacity.com/",
+   "app": null,
+   "vendor": "GOGov / GORequest",
+   "channels": [
+    {
+     "label": "Submit a Service Request",
+     "url": "https://user.govoutreach.com/lomitacityca/faq.php?cmd=shell",
+     "verified": true,
+     "http": "200"
+    }
+   ],
+   "phone": "(310) 325-7110",
+   "email": null,
+   "sources": [
+    "https://lomitacity.com/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Long Beach",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://www.longbeach.gov/",
+   "app": null,
+   "vendor": null,
+   "channels": [
+    {
+     "label": "Report a Pothole",
+     "url": "https://www.longbeach.gov/pw/services/potholes/",
+     "verified": true,
+     "http": "200"
+    }
+   ],
+   "phone": "562-570-6801",
+   "email": null,
+   "sources": [
+    "https://www.longbeach.gov/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Los Angeles",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://lacity.gov/",
+   "app": null,
+   "vendor": "MyLA311 (Salesforce)",
+   "channels": [
+    {
+     "label": "City Services",
+     "url": "https://lacity.gov/myla311",
+     "verified": true,
+     "http": "200"
+    },
+    {
+     "label": "Submit Feedback",
+     "url": "https://myla311.lacity.gov/s/faq/feedback-general",
+     "verified": true,
+     "http": "200"
+    }
+   ],
+   "phone": "213-473-3231",
+   "email": null,
+   "sources": [
+    "https://lacity.gov/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Lynwood",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.lynwood.ca.us",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Malibu",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://www.malibucity.org/",
+   "app": null,
+   "vendor": null,
+   "channels": [
+    {
+     "label": "Report a Problem",
+     "url": "https://www.malibucity.org/618/Hotlines-and-Important-Numbers",
+     "verified": true,
+     "http": "200"
+    }
+   ],
+   "phone": "310-456-2489",
+   "email": null,
+   "sources": [
+    "https://www.malibucity.org/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Manhattan Beach",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://www.manhattanbeach.gov/",
+   "app": null,
+   "vendor": null,
+   "channels": [
+    {
+     "label": "FAQs / Request a Service or Repair",
+     "url": "https://www.manhattanbeach.gov/services/request/faqs",
+     "verified": false,
+     "http": "403"
+    },
+    {
+     "label": "Request a Service",
+     "url": "https://www.manhattanbeach.gov/departments/public-works/request-a-service",
+     "verified": false,
+     "http": "403"
+    },
+    {
+     "label": "FAQs / Request a Service or Repair",
+     "url": "https://www.manhattanbeach.gov/departments/faqs",
+     "verified": false,
+     "http": "403"
+    }
+   ],
+   "phone": "310) 802-5000",
+   "email": null,
+   "sources": [
+    "https://www.manhattanbeach.gov/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Maywood",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.cityofmaywood.com",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Monrovia",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.ci.monrovia.ca.us",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Montebello",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://www.montebelloca.gov/",
+   "app": null,
+   "vendor": null,
+   "channels": [
+    {
+     "label": "My Montebello App",
+     "url": "https://www.montebelloca.gov/our_community/my_montebello_app",
+     "verified": true,
+     "http": "200"
+    },
+    {
+     "label": "MyMontebello App",
+     "url": "https://cityofmontebello.hosted2.civiclive.com/cms/one.aspx?portalId=58756&pageId=79084",
+     "verified": true,
+     "http": "200"
+    }
+   ],
+   "phone": null,
+   "email": null,
+   "sources": [
+    "https://www.montebelloca.gov/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found"
+  },
+  {
+   "name": "Monterey Park",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://ci.monterey-park.ca.us",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Norwalk",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.norwalk.org",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Palmdale",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.cityofpalmdale.org",
+   "app": "My Palmdale",
+   "vendor": "GOGov",
+   "channels": [
+    {
+     "label": "Report maintenance issue form",
+     "url": "https://www.cityofpalmdaleca.gov/1234/Maintenance-Issue",
+     "verified": true,
+     "http": "200"
+    },
+    {
+     "label": "My Palmdale (Google Play)",
+     "url": "https://play.google.com/store/apps/details?id=com.govoutreach.palmdalecityca",
+     "verified": true,
+     "http": "200"
+    }
+   ],
+   "phone": "661-267-5338 (Maintenance)",
+   "email": null,
+   "sources": [
+    "https://www.cityofpalmdaleca.gov/1234/Maintenance-Issue",
+    "https://play.google.com/store/apps/details?id=com.govoutreach.palmdalecityca"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found"
+  },
+  {
+   "name": "Palos Verdes Estates",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.pvestates.org",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Paramount",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.paramountcity.com",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Pasadena",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://www.cityofpasadena.net",
+   "app": "Pasadena CSC",
+   "vendor": "GOGov / GORequest",
+   "channels": [
+    {
+     "label": "City Service Center",
+     "url": "https://www.cityofpasadena.net/city-service-center/",
+     "verified": true,
+     "http": "200"
+    },
+    {
+     "label": "Pasadena CSC app",
+     "url": "https://www.cityofpasadena.net/city-service-center/mobile-app/",
+     "verified": true,
+     "http": "200"
+    }
+   ],
+   "phone": "626-744-7311",
+   "email": "csc@cityofpasadena.net",
+   "sources": [
+    "https://www.cityofpasadena.net/city-service-center/",
+    "https://www.cityofpasadena.net/city-service-center/mobile-app/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found"
+  },
+  {
+   "name": "Pico Rivera",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.ci.pico-rivera.ca.us",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Pomona",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.ci.pomona.ca.us/",
+   "app": "Pomona Go",
+   "vendor": "CitySourced (Granicus)",
+   "channels": [
+    {
+     "label": "Pomona Go web portal",
+     "url": "https://pomonaca.citysourced.com/servicerequests/create",
+     "verified": true,
+     "http": "200"
+    },
+    {
+     "label": "About Pomona Go",
+     "url": "https://www.pomonaca.gov/our-city/online-services/new-pomona-go",
+     "verified": false,
+     "http": "403"
+    }
+   ],
+   "phone": "909-620-3665 (potholes); after hours 909-282-2835",
+   "email": null,
+   "sources": [
+    "https://pomonaca.citysourced.com/servicerequests/create",
+    "https://www.pomonaca.gov/our-city/online-services/new-pomona-go"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found"
+  },
+  {
+   "name": "Rancho Palos Verdes",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://www.rpvca.gov/",
+   "app": null,
+   "vendor": "GOGov / GORequest",
+   "channels": [
+    {
+     "label": "SERVICE REQUESTS Report a Problem",
+     "url": "https://user.govoutreach.com/ranchopalosverdesca/support.php?cmd=shell",
+     "verified": true,
+     "http": "200"
+    },
+    {
+     "label": "PUBLIC SAFETY Crime Prevention and Public Safety Concerns",
+     "url": "https://www.rpvca.gov/972/Public-Safety",
+     "verified": true,
+     "http": "200"
+    }
+   ],
+   "phone": "310-544-5200",
+   "email": null,
+   "sources": [
+    "https://www.rpvca.gov/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Redondo Beach",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://www.redondo.org/",
+   "app": null,
+   "vendor": "Comcate",
+   "channels": [
+    {
+     "label": "Report an Issue",
+     "url": "https://clients.comcate.com/newrequest.php?id=23",
+     "verified": true,
+     "http": "200"
+    }
+   ],
+   "phone": "(310) 372-1171",
+   "email": null,
+   "sources": [
+    "https://www.redondo.org/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Rolling Hills",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://www.rolling-hills.org/",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": "310-377-1521",
+   "email": null,
+   "sources": [
+    "https://www.rolling-hills.org/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "not found yet",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Rolling Hills Estates",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://www.rollinghillsestates.gov/",
+   "app": null,
+   "vendor": null,
+   "channels": [
+    {
+     "label": "Neighborhood Concerns",
+     "url": "https://www.rollinghillsestates.gov/how-do-i/report-or-request/neighborhood-concern",
+     "verified": false,
+     "http": "403"
+    },
+    {
+     "label": "Pothole or Other Street Concerns",
+     "url": "https://www.rollinghillsestates.gov/how-do-i/report-or-request/pothole-and-other-street-concerns",
+     "verified": false,
+     "http": "403"
+    },
+    {
+     "label": "Report a Concern",
+     "url": "https://www.rollinghillsestates.gov/how-do-i/report-or-request/report-a-concern",
+     "verified": false,
+     "http": "403"
+    }
+   ],
+   "phone": "310-377-1577",
+   "email": null,
+   "sources": [
+    "https://www.rollinghillsestates.gov/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Rosemead",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.cityofrosemead.org",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "San Dimas",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.cityofsandimas.com",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "San Fernando",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.ci.san-fernando.ca.us",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "San Gabriel",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.sangabrielcity.com",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "San Marino",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://SanMarinoCA.gov/",
+   "app": null,
+   "vendor": null,
+   "channels": [
+    {
+     "label": "Report a Concern",
+     "url": "https://sanmarinoca.gov/how_do_i/report_a/index.php",
+     "verified": true,
+     "http": "200"
+    },
+    {
+     "label": "Report a Concern",
+     "url": "https://SanMarinoCA.gov/how_do_i/report_a/index.php",
+     "verified": true,
+     "http": "200"
+    },
+    {
+     "label": "Public Works Service Requests",
+     "url": "https://SanMarinoCA.gov/how_do_i/report_a/public_works_service_ticket_requests.php",
+     "verified": true,
+     "http": "200"
+    },
+    {
+     "label": "General Comment or Concern",
+     "url": "https://SanMarinoCA.gov/how_do_i/report_a/general_comment_or_concern.php",
+     "verified": true,
+     "http": "200"
+    }
+   ],
+   "phone": "(626) 300-0700",
+   "email": null,
+   "sources": [
+    "https://SanMarinoCA.gov/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Santa Clarita",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.santa-clarita.com",
+   "app": "City of Santa Clarita app (Resident Service Center)",
+   "vendor": "GOGov / GORequest",
+   "channels": [
+    {
+     "label": "Resident Service Center",
+     "url": "https://user.govoutreach.com/santaclarita/support.php",
+     "verified": true,
+     "http": "200"
+    }
+   ],
+   "phone": null,
+   "email": null,
+   "sources": [
+    "https://user.govoutreach.com/santaclarita/support.php"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found"
+  },
+  {
+   "name": "Santa Fe Springs",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://www.california.com/city/santa-fe-springs",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Santa Monica",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://www.santamonica.gov/",
+   "app": null,
+   "vendor": "Santa Monica 311",
+   "channels": [
+    {
+     "label": "Submit a Request",
+     "url": "https://311.santamonica.gov/csp",
+     "verified": true,
+     "http": "200"
+    }
+   ],
+   "phone": null,
+   "email": null,
+   "sources": [
+    "https://www.santamonica.gov/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found"
+  },
+  {
+   "name": "Sierra Madre",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.ci.sierra-madre.ca.us",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Signal Hill",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.cityofsignalhill.org",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "South El Monte",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.ci.south-el-monte.ca.us",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "South Gate",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.cityofsouthgate.org",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "South Pasadena",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.southpasadenaca.gov",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Temple City",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.ci.temple-city.ca.us",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Torrance",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://www.torranceca.gov/Home",
+   "app": null,
+   "vendor": "Accela Citizen Access",
+   "channels": [
+    {
+     "label": "Download myTorranceCA app",
+     "url": "https://www.torranceca.gov/Government/Stay-Connected/myTorranceCA",
+     "verified": false,
+     "http": "403"
+    },
+    {
+     "label": "Citizen Concern",
+     "url": "https://www.torranceca.gov/How-Do-I/Report/Citizen-Concern",
+     "verified": false,
+     "http": "403"
+    },
+    {
+     "label": "Report an Issue Use the Torrance Citizen Portal to report issues to the City.",
+     "url": "https://aca-prod.accela.com/TORRANCE/Cap/CapHome.aspx?module=ServiceRequest&TabName=ServiceRequest&TabList=Home%7C0%7CServiceRequest%7C1%7CLicenses%7C2%7CEnvHealth%7C3%7CBuilding%7C4%7CEcoDevo%7C5%7CEngineering%7C6%7CEnforcement%7C7%7CCityManager%7C8%7CFire%7C9%7COversizeVehicle%7C10%7CPlanning%7C11%7CGISRequest%7C12%7CCurrentTabIndex%7C1",
+     "verified": true,
+     "http": "200"
+    }
+   ],
+   "phone": "(310) 328-5310",
+   "email": null,
+   "sources": [
+    "https://www.torranceca.gov/Home"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Vernon",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.cityofvernon.org",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Walnut",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.cityofwalnut.org/",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "West Covina",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.westcovina.org",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "West Hollywood",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "https://www.weho.org/",
+   "app": null,
+   "vendor": null,
+   "channels": [
+    {
+     "label": "Service Requests",
+     "url": "https://www.weho.org/services/online-services/service-requests",
+     "verified": false,
+     "http": "403"
+    },
+    {
+     "label": "Submit a Service Request",
+     "url": "https://www.weho.org/services/services/service-requests",
+     "verified": false,
+     "http": "403"
+    }
+   ],
+   "phone": "(323) 848-6400",
+   "email": null,
+   "sources": [
+    "https://www.weho.org/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Westlake Village",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.wlv.org",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Whittier",
+   "county": "Los Angeles",
+   "type": "city",
+   "official_site": "http://www.cityofwhittier.org",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Aliso Viejo",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "https://avcity.org/",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": "949-425-2500",
+   "email": null,
+   "sources": [
+    "https://avcity.org/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "not found yet",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Anaheim",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "https://www.anaheim.net",
+   "app": "My Anaheim / Anaheim Anytime",
+   "vendor": null,
+   "channels": [
+    {
+     "label": "Anaheim Anytime",
+     "url": "https://www.anaheim.net/2128/Anaheim-Anytime",
+     "verified": false,
+     "http": "403"
+    },
+    {
+     "label": "My Anaheim app",
+     "url": "https://www.anaheim.net/1409/My-Anaheim-App",
+     "verified": false,
+     "http": "403"
+    }
+   ],
+   "phone": "311 or (714) 765-4311",
+   "email": "mobilesupport@anaheim.net (app support)",
+   "sources": [
+    "https://www.anaheim.net/2128/Anaheim-Anytime",
+    "https://www.anaheim.net/1409/My-Anaheim-App"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found"
+  },
+  {
+   "name": "Brea",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "http://www.ci.brea.ca.us",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Buena Park",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "http://www.buenapark.com",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Costa Mesa",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "https://www.costamesaca.gov/",
+   "app": null,
+   "vendor": null,
+   "channels": [
+    {
+     "label": "Costa Mesa 311 (report issues)",
+     "url": "https://www.costamesaca.gov/trending/costa-mesa-311-report-issues",
+     "verified": false,
+     "http": "403"
+    },
+    {
+     "label": "Costa Mesa 311 (report issues)",
+     "url": "https://www.costamesaca.gov/community/costa-mesa-311-report-issues",
+     "verified": false,
+     "http": "403"
+    }
+   ],
+   "phone": null,
+   "email": null,
+   "sources": [
+    "https://www.costamesaca.gov/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found"
+  },
+  {
+   "name": "Cypress",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "http://www.ci.cypress.ca.us",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Dana Point",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "http://www.danapoint.org",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Fountain Valley",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "https://www.fountainvalley.org/",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Fullerton",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "https://www.cityoffullerton.com/",
+   "app": null,
+   "vendor": null,
+   "channels": [
+    {
+     "label": "Report a Pothole",
+     "url": "https://www.cityoffullerton.com/government/departments/public-works/service-request",
+     "verified": false,
+     "http": "403"
+    },
+    {
+     "label": "myFullerton App",
+     "url": "https://www.cityoffullerton.com/about-us/social-media/myfullerton-app",
+     "verified": false,
+     "http": "403"
+    },
+    {
+     "label": "Service Request",
+     "url": "https://www.cityoffullerton.com/residents/city-maintenance/make-a-request",
+     "verified": false,
+     "http": "403"
+    },
+    {
+     "label": "Report an Issue",
+     "url": "https://www.cityoffullerton.com/about-us/services-request",
+     "verified": false,
+     "http": "403"
+    }
+   ],
+   "phone": "714.738.6300",
+   "email": null,
+   "sources": [
+    "https://www.cityoffullerton.com/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Garden Grove",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "https://ggcity.org/",
+   "app": null,
+   "vendor": null,
+   "channels": [
+    {
+     "label": "Report Issue",
+     "url": "https://ggcity.org/citizen-requests",
+     "verified": true,
+     "http": "200"
+    }
+   ],
+   "phone": null,
+   "email": null,
+   "sources": [
+    "https://ggcity.org/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found"
+  },
+  {
+   "name": "Huntington Beach",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "https://www.huntingtonbeachca.gov/",
+   "app": null,
+   "vendor": null,
+   "channels": [
+    {
+     "label": "Report An Issue",
+     "url": "https://www.huntingtonbeachca.gov/services/report_an_issue/index.php",
+     "verified": true,
+     "http": "200"
+    }
+   ],
+   "phone": "(714) 536-5511",
+   "email": null,
+   "sources": [
+    "https://www.huntingtonbeachca.gov/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Irvine",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "https://cityofirvine.gov/",
+   "app": null,
+   "vendor": null,
+   "channels": [
+    {
+     "label": "Report an Issue",
+     "url": "https://www.cityofirvine.gov/public-works-sustainability-department/how-can-we-help",
+     "verified": true,
+     "http": "200"
+    }
+   ],
+   "phone": "949-724-6000",
+   "email": null,
+   "sources": [
+    "https://cityofirvine.gov/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "La Habra",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "http://www.ci.la-habra.ca.us",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "La Palma",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "http://www.cityoflapalma.org",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Laguna Beach",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "https://www.lagunabeachcity.net/",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": "949-497-3311",
+   "email": null,
+   "sources": [
+    "https://www.lagunabeachcity.net/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "not found yet",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Laguna Hills",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "http://www.ci.laguna-hills.ca.us/",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Laguna Niguel",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "http://ci.laguna-niguel.ca.us",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Laguna Woods",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "http://www.lagunawoodscity.org",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Lake Forest",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "http://www.city-lakeforest.com",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Los Alamitos",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "https://cityoflosalamitos.org/",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": "562-431-3538",
+   "email": null,
+   "sources": [
+    "https://cityoflosalamitos.org/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "not found yet",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Mission Viejo",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "https://www.missionviejo.gov/",
+   "app": null,
+   "vendor": null,
+   "channels": [
+    {
+     "label": "Service Request",
+     "url": "https://www.missionviejo.gov/services-guides/service-request",
+     "verified": true,
+     "http": "200"
+    }
+   ],
+   "phone": "949-470-3000",
+   "email": null,
+   "sources": [
+    "https://www.missionviejo.gov/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Newport Beach",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "https://www.newportbeachca.gov/",
+   "app": null,
+   "vendor": null,
+   "channels": [
+    {
+     "label": "Report A Problem",
+     "url": "https://apps.newportbeachca.gov/quest/",
+     "verified": true,
+     "http": "200"
+    },
+    {
+     "label": "MyNB Mobile App",
+     "url": "https://www.newportbeachca.gov/i-am-a/community-member/mynb-mobile-app",
+     "verified": true,
+     "http": "200"
+    },
+    {
+     "label": "Traffic Signals & Concerns",
+     "url": "https://www.newportbeachca.gov/trending/community-issues/traffic-signals-concerns",
+     "verified": true,
+     "http": "200"
+    }
+   ],
+   "phone": "949-644-3309",
+   "email": null,
+   "sources": [
+    "https://www.newportbeachca.gov/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Orange",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "https://www.cityoforange.org/",
+   "app": null,
+   "vendor": null,
+   "channels": [
+    {
+     "label": "Report a Concern",
+     "url": "https://www.cityoforange.org/residents/orange-24-7",
+     "verified": false,
+     "http": "403"
+    }
+   ],
+   "phone": "(714) 744-2225",
+   "email": null,
+   "sources": [
+    "https://www.cityoforange.org/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Placentia",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "http://www.placentia.org",
+   "app": "iPlacentia",
+   "vendor": "GOGov / GORequest",
+   "channels": [
+    {
+     "label": "iPlacentia app",
+     "url": "https://www.placentia.org/751/iPlacentia-App",
+     "verified": true,
+     "http": "200"
+    },
+    {
+     "label": "GORequest web form",
+     "url": "https://user.govoutreach.com/placentiaca/support.php",
+     "verified": true,
+     "http": "200"
+    }
+   ],
+   "phone": "(714) 993-8131",
+   "email": null,
+   "sources": [
+    "https://www.placentia.org/751/iPlacentia-App",
+    "https://user.govoutreach.com/placentiaca/support.php"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found"
+  },
+  {
+   "name": "Rancho Santa Margarita",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "http://www.cityofrsm.org",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "San Clemente",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "http://ci.san-clemente.ca.us",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "San Juan Capistrano",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "http://www.sanjuancapistrano.org",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Santa Ana",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "https://santa-ana.gov/",
+   "app": null,
+   "vendor": null,
+   "channels": [
+    {
+     "label": "mySantaAna app",
+     "url": "https://santa-ana.gov/mysantaana-app/",
+     "verified": true,
+     "http": "200"
+    },
+    {
+     "label": "Report an issue",
+     "url": "https://santa-ana.gov/report-issue",
+     "verified": true,
+     "http": "200"
+    }
+   ],
+   "phone": "714-647-3380",
+   "email": null,
+   "sources": [
+    "https://santa-ana.gov/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Seal Beach",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "https://sealbeachca.gov/",
+   "app": null,
+   "vendor": "MyCivic (Tyler)",
+   "channels": [
+    {
+     "label": "Report A Public Works Issue",
+     "url": "https://sealbeachca.gov/departments/public-works/maintenance-operations-division/",
+     "verified": true,
+     "http": "200"
+    },
+    {
+     "label": "Report a Coyote Sighting",
+     "url": "https://webrai.mycivicapps.com/a0ded84c4b480d5327686524f1b5c356",
+     "verified": true,
+     "http": "200"
+    }
+   ],
+   "phone": "(562) 431-2527",
+   "email": null,
+   "sources": [
+    "https://sealbeachca.gov/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found",
+   "phone_note": "main city hall number from homepage"
+  },
+  {
+   "name": "Stanton",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "http://www.ci.stanton.ca.us",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Tustin",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "http://www.tustinca.org",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Villa Park",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "http://www.villapark.org/",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Westminster",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "http://www.westminster-ca.gov",
+   "app": null,
+   "vendor": null,
+   "channels": [],
+   "phone": null,
+   "email": null,
+   "sources": [],
+   "last_checked": "2026-10-16",
+   "status": "not found yet"
+  },
+  {
+   "name": "Yorba Linda",
+   "county": "Orange",
+   "type": "city",
+   "official_site": "https://www.yorbalindaca.gov/",
+   "app": "MyCivic 311",
+   "vendor": "MyCivic (Tyler Technologies)",
+   "channels": [
+    {
+     "label": "MyCivic 311 web portal",
+     "url": "https://www.yorbalindaca.gov/828/MyCivic-311-Web-Portal",
+     "verified": true,
+     "http": "200"
+    },
+    {
+     "label": "MyCivic 311 service requests",
+     "url": "https://www.yorbalindaca.gov/827/MyCivic-311-Service-Requests",
+     "verified": true,
+     "http": "200"
+    }
+   ],
+   "phone": "714-386-3140 (Public Works); code enforcement hotline 714-961-7138",
+   "email": "mycivic311@yorbalindaca.gov",
+   "sources": [
+    "https://www.yorbalindaca.gov/828/MyCivic-311-Web-Portal",
+    "https://www.yorbalindaca.gov/827/MyCivic-311-Service-Requests"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found"
+  },
+  {
+   "name": "Unincorporated LA County",
+   "county": "Los Angeles",
+   "type": "unincorporated",
+   "official_site": "https://pw.lacounty.gov",
+   "app": "The Works (LA County Public Works)",
+   "vendor": null,
+   "channels": [
+    {
+     "label": "The Works",
+     "url": "https://dpw.lacounty.gov/theWorks/",
+     "verified": true,
+     "http": "200"
+    },
+    {
+     "label": "Report a Problem (Public Works)",
+     "url": "https://content.pw.lacounty.gov/explore-public-works/report-a-problem/",
+     "verified": true,
+     "http": "200"
+    }
+   ],
+   "phone": "(626) 458-3981 (Road Maintenance)",
+   "email": null,
+   "sources": [
+    "https://dpw.lacounty.gov/theWorks/"
+   ],
+   "last_checked": "2026-10-16",
+   "status": "found"
+  }
+ ]
+}
